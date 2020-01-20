@@ -1,4 +1,4 @@
-# self-learning fundamentals
+# Self-learning Fundamentals
 
 ## These are my self-learning projects of data exploration, data manipulation, data cleaning, and data analysis.
 
