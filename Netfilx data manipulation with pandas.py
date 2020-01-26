@@ -8,7 +8,7 @@ Created on Sun Jan 19 13:39:55 2020
 # load pandas library
 import pandas as pd
 
-#load and read  the dataset from workign directory 
+#load and read  the dataset from working directory 
 ndata = pd.read_csv('netflix_titles_nov_2019.csv')
 
 # show the data columns
